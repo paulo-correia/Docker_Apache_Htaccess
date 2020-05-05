@@ -23,6 +23,7 @@ docker run -d -p `<local port>`:80 paulocorreia/alpine_apache:1.0
 `http://localhost:<local port>`
 
 Default user is **sample**
+
 Default password is **test**
 
 If `<local port>` is 80 you can omit
