@@ -17,7 +17,7 @@ docker run -d -p `<local port>`:80 `<name>`
 
 ### If don't generate image, get from docker hub
 
-docker run -d -p `<local port>`:80 paulocorreia/alpine_apache:1.0
+docker run -d -p `<local port>`:80 paulocorreia/alpine_apache_htaccess:1.0
 
 ### Open Browser
 `http://localhost:<local port>`
