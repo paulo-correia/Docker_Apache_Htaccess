@@ -1,0 +1,4 @@
+Authtype Basic
+AuthName "Restrict"
+AuthUserFile /var/www/localhost/htdocs/.htpasswd
+Require valid-user
